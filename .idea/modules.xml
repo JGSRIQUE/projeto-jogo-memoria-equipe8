@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppEducaMais/AppEducaMais.iml" filepath="$PROJECT_DIR$/AppEducaMais/AppEducaMais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AulaDeProgramacao.iml" filepath="$PROJECT_DIR$/AulaDeProgramacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetosDeTreino/JardelLuz/Idade/Idade.iml" filepath="$PROJECT_DIR$/ProjetosDeTreino/JardelLuz/Idade/Idade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetosDeTreino/JardelLuz/Idade/Idade02/Idade02.iml" filepath="$PROJECT_DIR$/ProjetosDeTreino/JardelLuz/Idade/Idade02/Idade02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetosDeTreino/JardelLuz/JardelLuz.iml" filepath="$PROJECT_DIR$/ProjetosDeTreino/JardelLuz/JardelLuz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JogoDaMemoriaTrabalho/JogoDaMemoriaTrabalho.iml" filepath="$PROJECT_DIR$/JogoDaMemoriaTrabalho/JogoDaMemoriaTrabalho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetosDeTreino/PainelJava/PainelJava.iml" filepath="$PROJECT_DIR$/ProjetosDeTreino/PainelJava/PainelJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProvaSistemaFolha/SistemaFolha/SistemaFolha.iml" filepath="$PROJECT_DIR$/ProvaSistemaFolha/SistemaFolha/SistemaFolha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProvaSistemaFolha/SistenaEntregas/SistenaEntregas.iml" filepath="$PROJECT_DIR$/ProvaSistemaFolha/SistenaEntregas/SistenaEntregas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetosDeTreino/JardelLuz/login/login.iml" filepath="$PROJECT_DIR$/ProjetosDeTreino/JardelLuz/login/login.iml" />
+    </modules>
+  </component>
+</project>
